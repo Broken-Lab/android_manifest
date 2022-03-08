@@ -5,6 +5,10 @@
            fetch="https://github.com/CipherOS"
            revision="twelve-L" />
 
+ <remote  name="old"
+           fetch="https://github.com/CipherOS"
+           revision="twelve" />
+
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
 
